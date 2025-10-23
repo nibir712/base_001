@@ -14,3 +14,4 @@ git commit -m "Add readme file"
 
 # 5. Push to GitHub
 git push origin main
+git commit
